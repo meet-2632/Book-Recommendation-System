@@ -13,8 +13,7 @@ https://book-rec.azurewebsites.net
 
 ## Tech Stacks
 <p>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>![Screenshot 2023-04-22 130604](https://user-images.githubusercontent.com/80049664/233770396-3f0df465-d0e7-4ec0-88ba-0c7b2d7e6a4f.png)
-
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/>
